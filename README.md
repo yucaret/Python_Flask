@@ -10,4 +10,3 @@ Aplicación Web de registro de personas con Python, Flask en Base de Datos Postg
 
 ## Ejecución
 La ejecución se realiza por Jupiter notebook.
-
