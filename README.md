@@ -1,4 +1,4 @@
-# Python_Flask
+# Python_Flask_Postgresql
 Aplicación Web de registro de personas con Python, Flask en Base de Datos Postgresql
 
 ## Configuraciones Iniciales
